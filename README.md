@@ -176,14 +176,6 @@ My goal is to combine my backend engineering experience with AI to build **produ
 
 ---
 
-# 📊 GitHub Overview
-
-[![GitHub Followers](https://img.shields.io/github/followers/ShahAdil073?style=for-the-badge&logo=github&label=Followers)](https://github.com/ShahAdil073?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/ShahAdil073?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars)](https://github.com/ShahAdil073?tab=repositories)
-[![Public Repositories](https://img.shields.io/badge/Public%20Repositories-View-238636?style=for-the-badge&logo=github)](https://github.com/ShahAdil073?tab=repositories)
-
----
-
 # 📈 GitHub Activity
 
 [**View my contribution activity and repositories →**](https://github.com/ShahAdil073)

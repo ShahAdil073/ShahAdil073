@@ -99,63 +99,63 @@ My goal is to combine my backend engineering experience with AI to build **produ
 
 ## 👨‍💻 Languages
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## ⚙️ Backend
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge\&logo=express\&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
 
 ## 🎨 Frontend
 
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge\&logo=vue.js\&logoColor=4FC08D)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ## 🗄️ Databases
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 🤖 AI & Machine Learning
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-6C47FF?style=for-the-badge)
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-000000?style=for-the-badge)
 
 ## ☁️ Cloud & DevOps
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx\&logoColor=white)
-![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge\&logo=pm2\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge\&logo=github-actions\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ## 🔄 Real-Time & Communication
 
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge)
-![Laravel Reverb](https://img.shields.io/badge/Laravel%20Reverb-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
+![Laravel Reverb](https://img.shields.io/badge/Laravel%20Reverb-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ## 🔧 Development Tools
 
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge\&logo=swagger\&logoColor=black)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=jira\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
@@ -176,31 +176,17 @@ My goal is to combine my backend engineering experience with AI to build **produ
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Overview
 
-![Adil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahadil073\&show_icons=true\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Shahadil073\&theme=dark\&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahadil073\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true\&layout=compact)
+[![GitHub Followers](https://img.shields.io/github/followers/ShahAdil073?style=for-the-badge&logo=github&label=Followers)](https://github.com/ShahAdil073?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/ShahAdil073?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars)](https://github.com/ShahAdil073?tab=repositories)
+[![Public Repositories](https://img.shields.io/badge/Public%20Repositories-View-238636?style=for-the-badge&logo=github)](https://github.com/ShahAdil073?tab=repositories)
 
 ---
 
 # 📈 GitHub Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shahadil073\&theme=github-compact\&hide_border=true)
-
----
-
-# 🏅 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Shahadil073\&theme=darkhub\&no-frame=false\&no-bg=false\&margin-w=4)
-
----
-
-# 🔥 Contribution Streak
-
-![Contribution Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+[**View my contribution activity and repositories →**](https://github.com/ShahAdil073)
 
 ---
 
@@ -239,15 +225,15 @@ I'm always interested in connecting with developers, engineers, startups, and pe
 
 ### 💼 LinkedIn
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adil%20Shah-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/adil-shah-30aa00181)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adil%20Shah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adil-shah-30aa00181)
 
 ### 🐙 GitHub
 
-[![GitHub](https://img.shields.io/badge/GitHub-Shahadil073-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Shahadil073)
+[![GitHub](https://img.shields.io/badge/GitHub-Shahadil073-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shahadil073)
 
 ### 📧 Email
 
-[![Email](https://img.shields.io/badge/Email-shahadil073%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:shahadil073@gmail.com)
+[![Email](https://img.shields.io/badge/Email-shahadil073%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahadil073@gmail.com)
 
 ---
 
@@ -267,15 +253,15 @@ I believe continuous learning and practical implementation are the best ways to 
 
 If you find something useful in my projects, feel free to ⭐ star the repository or connect with me.
 
-[![GitHub](https://img.shields.io/badge/Follow%20Me%20on-GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Shahadil073)
+[![GitHub](https://img.shields.io/badge/Follow%20Me%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shahadil073)
 
-[![Portfolio](https://img.shields.io/badge/Visit%20My-Portfolio-000000?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://adilshah.dev)
+[![Portfolio](https://img.shields.io/badge/Visit%20My-Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://adilshah.dev)
 
 ---
 
 ## 👀 Profile Visitors
 
-![Profile Views](https://komarev.com/ghpvc/?username=Shahadil073\&label=Profile%20Views\&color=0e75b6\&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Shahadil073&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
 ---
 
